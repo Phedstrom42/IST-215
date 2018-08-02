@@ -1,0 +1,6 @@
+C:\Users\Phil\Desktop\Lab3-SortingLetters\bin\Debug\Lab3-SortingLetters.exe.config
+C:\Users\Phil\Desktop\Lab3-SortingLetters\bin\Debug\Lab3-SortingLetters.exe
+C:\Users\Phil\Desktop\Lab3-SortingLetters\bin\Debug\Lab3-SortingLetters.pdb
+C:\Users\Phil\Desktop\Lab3-SortingLetters\obj\Debug\Lab3-SortingLetters.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Lab3-SortingLetters\obj\Debug\Lab3-SortingLetters.exe
+C:\Users\Phil\Desktop\Lab3-SortingLetters\obj\Debug\Lab3-SortingLetters.pdb

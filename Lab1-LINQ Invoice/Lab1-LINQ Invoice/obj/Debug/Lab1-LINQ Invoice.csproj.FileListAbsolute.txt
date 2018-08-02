@@ -1,0 +1,13 @@
+c:/users/nhti/documents/visual studio 2017/Projects/Lab1-LINQ Invoice/Lab1-LINQ Invoice/bin/Debug/Lab1-LINQ Invoice.exe.config
+c:/users/nhti/documents/visual studio 2017/Projects/Lab1-LINQ Invoice/Lab1-LINQ Invoice/bin/Debug/Lab1-LINQ Invoice.exe
+c:/users/nhti/documents/visual studio 2017/Projects/Lab1-LINQ Invoice/Lab1-LINQ Invoice/bin/Debug/Lab1-LINQ Invoice.pdb
+c:/users/nhti/documents/visual studio 2017/Projects/Lab1-LINQ Invoice/Lab1-LINQ Invoice/obj/Debug/Lab1-LINQ Invoice.csprojResolveAssemblyReference.cache
+c:/users/nhti/documents/visual studio 2017/Projects/Lab1-LINQ Invoice/Lab1-LINQ Invoice/obj/Debug/Lab1-LINQ Invoice.exe
+c:/users/nhti/documents/visual studio 2017/Projects/Lab1-LINQ Invoice/Lab1-LINQ Invoice/obj/Debug/Lab1-LINQ Invoice.pdb
+/Volumes/PHEDSTROM/IST-215/Homework/Lab1-LINQ Invoice/Lab1-LINQ Invoice/obj/Debug/Lab1-LINQ Invoice.csprojResolveAssemblyReference.cache
+/Volumes/PHEDSTROM/IST-215/Homework/Lab1-LINQ Invoice/Lab1-LINQ Invoice/obj/Debug/Lab1-LINQ Invoice.csproj.CoreCompileInputs.cache
+/Volumes/PHEDSTROM/IST-215/Homework/Lab1-LINQ Invoice/Lab1-LINQ Invoice/obj/Debug/Lab1-LINQ Invoice.exe
+/Volumes/PHEDSTROM/IST-215/Homework/Lab1-LINQ Invoice/Lab1-LINQ Invoice/obj/Debug/Lab1-LINQ Invoice.pdb
+/Volumes/PHEDSTROM/IST-215/Homework/Lab1-LINQ Invoice/Lab1-LINQ Invoice/bin/Debug/Lab1-LINQ Invoice.exe.config
+/Volumes/PHEDSTROM/IST-215/Homework/Lab1-LINQ Invoice/Lab1-LINQ Invoice/bin/Debug/Lab1-LINQ Invoice.exe
+/Volumes/PHEDSTROM/IST-215/Homework/Lab1-LINQ Invoice/Lab1-LINQ Invoice/bin/Debug/Lab1-LINQ Invoice.pdb

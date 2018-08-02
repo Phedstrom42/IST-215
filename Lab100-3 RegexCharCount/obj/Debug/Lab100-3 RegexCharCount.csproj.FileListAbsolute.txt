@@ -1,0 +1,12 @@
+C:\Users\Phil\Desktop\Lab100-3 RegexCharCount\bin\Debug\Lab100-3 RegexCharCount.exe.config
+C:\Users\Phil\Desktop\Lab100-3 RegexCharCount\bin\Debug\Lab100-3 RegexCharCount.exe
+C:\Users\Phil\Desktop\Lab100-3 RegexCharCount\bin\Debug\Lab100-3 RegexCharCount.pdb
+C:\Users\Phil\Desktop\Lab100-3 RegexCharCount\obj\Debug\Lab100-3 RegexCharCount.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Lab100-3 RegexCharCount\obj\Debug\Lab100-3 RegexCharCount.exe
+C:\Users\Phil\Desktop\Lab100-3 RegexCharCount\obj\Debug\Lab100-3 RegexCharCount.pdb
+E:\IST-215\Homework\Lab100-3 RegexCharCount\bin\Debug\Lab100-3 RegexCharCount.exe.config
+E:\IST-215\Homework\Lab100-3 RegexCharCount\bin\Debug\Lab100-3 RegexCharCount.exe
+E:\IST-215\Homework\Lab100-3 RegexCharCount\bin\Debug\Lab100-3 RegexCharCount.pdb
+E:\IST-215\Homework\Lab100-3 RegexCharCount\obj\Debug\Lab100-3 RegexCharCount.csprojResolveAssemblyReference.cache
+E:\IST-215\Homework\Lab100-3 RegexCharCount\obj\Debug\Lab100-3 RegexCharCount.exe
+E:\IST-215\Homework\Lab100-3 RegexCharCount\obj\Debug\Lab100-3 RegexCharCount.pdb

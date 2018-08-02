@@ -1,0 +1,12 @@
+C:\Users\Phil\Desktop\Lab100-PersonLINQ\bin\Debug\Lab100-PersonLINQ.exe.config
+C:\Users\Phil\Desktop\Lab100-PersonLINQ\obj\Debug\Lab100-PersonLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Lab100-PersonLINQ\bin\Debug\Lab100-PersonLINQ.exe
+C:\Users\Phil\Desktop\Lab100-PersonLINQ\bin\Debug\Lab100-PersonLINQ.pdb
+C:\Users\Phil\Desktop\Lab100-PersonLINQ\obj\Debug\Lab100-PersonLINQ.exe
+C:\Users\Phil\Desktop\Lab100-PersonLINQ\obj\Debug\Lab100-PersonLINQ.pdb
+E:\IST-215\Homework\Lab100-1-PersonLINQ\bin\Debug\Lab100-PersonLINQ.exe.config
+E:\IST-215\Homework\Lab100-1-PersonLINQ\bin\Debug\Lab100-PersonLINQ.exe
+E:\IST-215\Homework\Lab100-1-PersonLINQ\bin\Debug\Lab100-PersonLINQ.pdb
+E:\IST-215\Homework\Lab100-1-PersonLINQ\obj\Debug\Lab100-PersonLINQ.csprojResolveAssemblyReference.cache
+E:\IST-215\Homework\Lab100-1-PersonLINQ\obj\Debug\Lab100-PersonLINQ.exe
+E:\IST-215\Homework\Lab100-1-PersonLINQ\obj\Debug\Lab100-PersonLINQ.pdb

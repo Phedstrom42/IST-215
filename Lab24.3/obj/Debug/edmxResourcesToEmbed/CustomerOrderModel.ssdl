@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CUSTOMER_ORDERModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CUSTOMER">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerName" Type="char" MaxLength="75" Nullable="false" />
+    <Property Name="EmailDomain" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="PhoneAreaCode" Type="char" MaxLength="6" Nullable="false" />
+    <Property Name="City" Type="char" MaxLength="35" />
+    <Property Name="State" Type="char" MaxLength="2" />
+    <Property Name="ZIP" Type="char" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="ORDER">
+    <Key>
+      <PropertyRef Name="OrderNum" />
+    </Key>
+    <Property Name="OrderNum" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductNumber" Type="char" MaxLength="35" Nullable="false" />
+    <Property Name="ProductType" Type="char" MaxLength="25" Nullable="false" />
+    <Property Name="ProductName" Type="varchar" MaxLength="75" Nullable="false" />
+    <Property Name="CustomerID" Type="int" />
+  </EntityType>
+  <Association Name="CUSTOMER_ORDER_FK">
+    <End Role="CUSTOMER" Type="Self.CUSTOMER" Multiplicity="0..1" />
+    <End Role="ORDER" Type="Self.ORDER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CUSTOMER">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="ORDER">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CUSTOMER_ORDERModelStoreContainer">
+    <EntitySet Name="CUSTOMER" EntityType="Self.CUSTOMER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ORDER" EntityType="Self.ORDER" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="CUSTOMER_ORDER_FK" Association="Self.CUSTOMER_ORDER_FK">
+      <End Role="CUSTOMER" EntitySet="CUSTOMER" />
+      <End Role="ORDER" EntitySet="ORDER" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

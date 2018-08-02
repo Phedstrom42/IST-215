@@ -1,0 +1,9 @@
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\bin\Debug\Lab14-AppWithTabs.exe.config
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\bin\Debug\Lab14-AppWithTabs.exe
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\bin\Debug\Lab14-AppWithTabs.pdb
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\obj\Debug\Lab14-AppWithTabs.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\obj\Debug\Lab14_AppWithTabs.TabsWithCheckedListBoxes.resources
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\obj\Debug\Lab14_AppWithTabs.Properties.Resources.resources
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\obj\Debug\Lab14-AppWithTabs.csproj.GenerateResource.Cache
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\obj\Debug\Lab14-AppWithTabs.exe
+C:\Users\Phil\Desktop\Lab14-AppWithTabs\obj\Debug\Lab14-AppWithTabs.pdb

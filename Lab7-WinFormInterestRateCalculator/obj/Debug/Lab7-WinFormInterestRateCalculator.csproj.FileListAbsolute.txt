@@ -1,0 +1,9 @@
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\bin\Debug\Lab7-WinFormInterestRateCalculator.exe.config
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\bin\Debug\Lab7-WinFormInterestRateCalculator.exe
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\bin\Debug\Lab7-WinFormInterestRateCalculator.pdb
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\obj\Debug\Lab7-WinFormInterestRateCalculator.csprojResolveAssemblyReference.cache
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\obj\Debug\Lab7_WinFormInterestRateCalculator.frmInterestCalculator.resources
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\obj\Debug\Lab7_WinFormInterestRateCalculator.Properties.Resources.resources
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\obj\Debug\Lab7-WinFormInterestRateCalculator.csproj.GenerateResource.Cache
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\obj\Debug\Lab7-WinFormInterestRateCalculator.exe
+c:\users\nhti\documents\visual studio 2017\Projects\Lab7-WinFormInterestRateCalculator\obj\Debug\Lab7-WinFormInterestRateCalculator.pdb

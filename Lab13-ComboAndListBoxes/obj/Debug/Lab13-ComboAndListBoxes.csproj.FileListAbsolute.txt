@@ -1,0 +1,9 @@
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\bin\Debug\Lab13-ComboAndListBoxes.exe.config
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\obj\Debug\Lab13-ComboAndListBoxes.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\obj\Debug\Lab13_ComboAndListBoxes.StatesForm.resources
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\obj\Debug\Lab13-ComboAndListBoxes.csproj.GenerateResource.Cache
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\bin\Debug\Lab13-ComboAndListBoxes.exe
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\bin\Debug\Lab13-ComboAndListBoxes.pdb
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\obj\Debug\Lab13_ComboAndListBoxes.Properties.Resources.resources
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\obj\Debug\Lab13-ComboAndListBoxes.exe
+C:\Users\Phil\Desktop\Lab13-ComboAndListBoxes\obj\Debug\Lab13-ComboAndListBoxes.pdb

@@ -1,0 +1,6 @@
+c:\users\nhti\documents\visual studio 2017\Projects\Lab100-PetLab\Lab100-PetLab\obj\Debug\Lab100-PetLab.csprojResolveAssemblyReference.cache
+c:\users\nhti\documents\visual studio 2017\Projects\Lab100-PetLab\Lab100-PetLab\bin\Debug\Lab100-PetLab.exe.config
+c:\users\nhti\documents\visual studio 2017\Projects\Lab100-PetLab\Lab100-PetLab\bin\Debug\Lab100-PetLab.exe
+c:\users\nhti\documents\visual studio 2017\Projects\Lab100-PetLab\Lab100-PetLab\bin\Debug\Lab100-PetLab.pdb
+c:\users\nhti\documents\visual studio 2017\Projects\Lab100-PetLab\Lab100-PetLab\obj\Debug\Lab100-PetLab.exe
+c:\users\nhti\documents\visual studio 2017\Projects\Lab100-PetLab\Lab100-PetLab\obj\Debug\Lab100-PetLab.pdb

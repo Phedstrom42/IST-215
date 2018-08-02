@@ -1,0 +1,6 @@
+C:\Users\Phil\Desktop\Lab2-DistinctWords\bin\Debug\Lab2-DistinctWords.exe.config
+C:\Users\Phil\Desktop\Lab2-DistinctWords\bin\Debug\Lab2-DistinctWords.exe
+C:\Users\Phil\Desktop\Lab2-DistinctWords\bin\Debug\Lab2-DistinctWords.pdb
+C:\Users\Phil\Desktop\Lab2-DistinctWords\obj\Debug\Lab2-DistinctWords.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Lab2-DistinctWords\obj\Debug\Lab2-DistinctWords.exe
+C:\Users\Phil\Desktop\Lab2-DistinctWords\obj\Debug\Lab2-DistinctWords.pdb

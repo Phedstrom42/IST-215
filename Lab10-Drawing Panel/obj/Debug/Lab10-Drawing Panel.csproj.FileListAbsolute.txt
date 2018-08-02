@@ -1,0 +1,18 @@
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\bin\Debug\Lab10-Drawing Panel.exe.config
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\bin\Debug\Lab10-Drawing Panel.exe
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\bin\Debug\Lab10-Drawing Panel.pdb
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\obj\Debug\Lab10-Drawing Panel.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\obj\Debug\Lab10_Drawing_Panel.DrawingPanel.resources
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\obj\Debug\Lab10_Drawing_Panel.Properties.Resources.resources
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\obj\Debug\Lab10-Drawing Panel.csproj.GenerateResource.Cache
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\obj\Debug\Lab10-Drawing Panel.exe
+C:\Users\Phil\Desktop\Lab10-Drawing Panel\obj\Debug\Lab10-Drawing Panel.pdb
+E:\IST-215\Homework\Lab10-Drawing Panel\bin\Debug\Lab10-Drawing Panel.exe.config
+E:\IST-215\Homework\Lab10-Drawing Panel\bin\Debug\Lab10-Drawing Panel.exe
+E:\IST-215\Homework\Lab10-Drawing Panel\bin\Debug\Lab10-Drawing Panel.pdb
+E:\IST-215\Homework\Lab10-Drawing Panel\obj\Debug\Lab10-Drawing Panel.csprojResolveAssemblyReference.cache
+E:\IST-215\Homework\Lab10-Drawing Panel\obj\Debug\Lab10_Drawing_Panel.DrawingPanel.resources
+E:\IST-215\Homework\Lab10-Drawing Panel\obj\Debug\Lab10_Drawing_Panel.Properties.Resources.resources
+E:\IST-215\Homework\Lab10-Drawing Panel\obj\Debug\Lab10-Drawing Panel.csproj.GenerateResource.Cache
+E:\IST-215\Homework\Lab10-Drawing Panel\obj\Debug\Lab10-Drawing Panel.exe
+E:\IST-215\Homework\Lab10-Drawing Panel\obj\Debug\Lab10-Drawing Panel.pdb

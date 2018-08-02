@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CUSTOMER_ORDERModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CUSTOMER">
+    <Key>
+      <PropertyRef Name="CustomerID" />
+    </Key>
+    <Property Name="CustomerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerName" Type="String" MaxLength="75" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="EmailDomain" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PhoneAreaCode" Type="String" MaxLength="6" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="35" FixedLength="true" Unicode="false" />
+    <Property Name="State" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+    <Property Name="ZIP" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="ORDERs" Relationship="Self.CUSTOMER_ORDER_FK" FromRole="CUSTOMER" ToRole="ORDER" />
+  </EntityType>
+  <EntityType Name="ORDER">
+    <Key>
+      <PropertyRef Name="OrderNum" />
+    </Key>
+    <Property Name="OrderNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductNumber" Type="String" MaxLength="35" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="ProductType" Type="String" MaxLength="25" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="ProductName" Type="String" MaxLength="75" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CustomerID" Type="Int32" />
+    <NavigationProperty Name="CUSTOMER" Relationship="Self.CUSTOMER_ORDER_FK" FromRole="ORDER" ToRole="CUSTOMER" />
+  </EntityType>
+  <Association Name="CUSTOMER_ORDER_FK">
+    <End Role="CUSTOMER" Type="Self.CUSTOMER" Multiplicity="0..1" />
+    <End Role="ORDER" Type="Self.ORDER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CUSTOMER">
+        <PropertyRef Name="CustomerID" />
+      </Principal>
+      <Dependent Role="ORDER">
+        <PropertyRef Name="CustomerID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CUSTOMER_ORDEREntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CUSTOMERs" EntityType="Self.CUSTOMER" />
+    <EntitySet Name="ORDERs" EntityType="Self.ORDER" />
+    <AssociationSet Name="CUSTOMER_ORDER_FK" Association="Self.CUSTOMER_ORDER_FK">
+      <End Role="CUSTOMER" EntitySet="CUSTOMERs" />
+      <End Role="ORDER" EntitySet="ORDERs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

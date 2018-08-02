@@ -1,0 +1,10 @@
+C:\Users\NHTI\Desktop\Lab24.3\bin\Debug\Lab24.3.exe.config
+C:\Users\NHTI\Desktop\Lab24.3\bin\Debug\Lab24.3.exe
+C:\Users\NHTI\Desktop\Lab24.3\bin\Debug\Lab24.3.pdb
+C:\Users\NHTI\Desktop\Lab24.3\bin\Debug\EntityFramework.dll
+C:\Users\NHTI\Desktop\Lab24.3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NHTI\Desktop\Lab24.3\bin\Debug\EntityFramework.xml
+C:\Users\NHTI\Desktop\Lab24.3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NHTI\Desktop\Lab24.3\obj\Debug\Lab24.3.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Lab24.3\obj\Debug\Lab24.3.exe
+C:\Users\NHTI\Desktop\Lab24.3\obj\Debug\Lab24.3.pdb

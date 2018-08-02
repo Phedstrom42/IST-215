@@ -1,0 +1,10 @@
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\bin\Debug\Lab24-EntityModelWalkthrough.exe.config
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\bin\Debug\Lab24-EntityModelWalkthrough.exe
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\bin\Debug\Lab24-EntityModelWalkthrough.pdb
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\bin\Debug\EntityFramework.dll
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\bin\Debug\EntityFramework.xml
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\obj\Debug\Lab24-EntityModelWalkthrough.csprojResolveAssemblyReference.cache
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\obj\Debug\Lab24-EntityModelWalkthrough.exe
+C:\Users\NHTI\Desktop\Lab24-EntityModelWalkthrough\obj\Debug\Lab24-EntityModelWalkthrough.pdb

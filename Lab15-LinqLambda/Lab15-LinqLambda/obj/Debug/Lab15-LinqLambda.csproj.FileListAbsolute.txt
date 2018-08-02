@@ -1,0 +1,6 @@
+c:\users\nhti\documents\visual studio 2017\Projects\Lab15-LinqLambda\Lab15-LinqLambda\bin\Debug\Lab15-LinqLambda.exe.config
+c:\users\nhti\documents\visual studio 2017\Projects\Lab15-LinqLambda\Lab15-LinqLambda\bin\Debug\Lab15-LinqLambda.exe
+c:\users\nhti\documents\visual studio 2017\Projects\Lab15-LinqLambda\Lab15-LinqLambda\bin\Debug\Lab15-LinqLambda.pdb
+c:\users\nhti\documents\visual studio 2017\Projects\Lab15-LinqLambda\Lab15-LinqLambda\obj\Debug\Lab15-LinqLambda.csprojResolveAssemblyReference.cache
+c:\users\nhti\documents\visual studio 2017\Projects\Lab15-LinqLambda\Lab15-LinqLambda\obj\Debug\Lab15-LinqLambda.exe
+c:\users\nhti\documents\visual studio 2017\Projects\Lab15-LinqLambda\Lab15-LinqLambda\obj\Debug\Lab15-LinqLambda.pdb

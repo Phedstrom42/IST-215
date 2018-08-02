@@ -1,0 +1,12 @@
+C:\Users\Phil\Desktop\Lab100-2 RegExPhoneValidation\bin\Debug\Lab100-2 RegExPhoneValidation.exe.config
+C:\Users\Phil\Desktop\Lab100-2 RegExPhoneValidation\bin\Debug\Lab100-2 RegExPhoneValidation.exe
+C:\Users\Phil\Desktop\Lab100-2 RegExPhoneValidation\bin\Debug\Lab100-2 RegExPhoneValidation.pdb
+C:\Users\Phil\Desktop\Lab100-2 RegExPhoneValidation\obj\Debug\Lab100-2 RegExPhoneValidation.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Desktop\Lab100-2 RegExPhoneValidation\obj\Debug\Lab100-2 RegExPhoneValidation.exe
+C:\Users\Phil\Desktop\Lab100-2 RegExPhoneValidation\obj\Debug\Lab100-2 RegExPhoneValidation.pdb
+E:\IST-215\Homework\Lab100-2 RegExPhoneValidation\bin\Debug\Lab100-2 RegExPhoneValidation.exe.config
+E:\IST-215\Homework\Lab100-2 RegExPhoneValidation\bin\Debug\Lab100-2 RegExPhoneValidation.exe
+E:\IST-215\Homework\Lab100-2 RegExPhoneValidation\bin\Debug\Lab100-2 RegExPhoneValidation.pdb
+E:\IST-215\Homework\Lab100-2 RegExPhoneValidation\obj\Debug\Lab100-2 RegExPhoneValidation.csprojResolveAssemblyReference.cache
+E:\IST-215\Homework\Lab100-2 RegExPhoneValidation\obj\Debug\Lab100-2 RegExPhoneValidation.exe
+E:\IST-215\Homework\Lab100-2 RegExPhoneValidation\obj\Debug\Lab100-2 RegExPhoneValidation.pdb
